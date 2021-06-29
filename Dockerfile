@@ -4,7 +4,7 @@ FROM alpine:latest
 #
 #   The MID Server image can be found here:
 #   https://github.com/bmoers/docker-mid-server/blob/master/docker/Dockerfile
-#   TESS
+#   TESS Update
 #   This Dockerfile is only to refresh the MID docker images
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
